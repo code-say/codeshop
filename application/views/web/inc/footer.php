@@ -36,8 +36,8 @@
             <div class="col_1_of_4 span_1_of_4">
                 <h4>Contact</h4>
                 <ul>
-                    <li><span><?php echo get_option('site_contact_num1');?></span></li>
-                    <li><span><?php echo get_option('site_contact_num2');?></span></li>
+                    <li><span>+91-1234564890</span></li>
+                    <li><span>+91-1234564891</span></li>
                 </ul>
                 <div class="social-icons">
                     <h4>Follow Us</h4>
@@ -52,7 +52,7 @@
             </div>
         </div>
         <div class="copy_right">
-            <p><b><?php echo get_option('site_copyright');?></b></p>
+            <p><b>© sayan mandal</b></p>
         </div>
     </div>
 </div>
